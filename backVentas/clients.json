@@ -106,17 +106,5 @@
     "address": "963 Palm St",
     "email": "ricardo.morales@example.com",
     "phone": "555-2345"
-  },
-  {
-    "id": 10,
-    "first_name": "Elena",
-    "last_name": "Díaz",
-    "dni": "90123456",
-    "zone": "South",
-    "department": "Management",
-    "city": "San Diego",
-    "address": "159 Maple St",
-    "email": "elena.diaz@example.com",
-    "phone": "555-6781"
   }
 ]
