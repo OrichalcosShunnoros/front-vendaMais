@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Armenia"
+    },
+    {
+        "id": 2,
+        "name": "Calarcá"
+    },
+    {
+        "id": 3,
+        "name": "Genova"
+    },
+    {
+        "id": 4,
+        "name": "Montenegro"
+    },
+    {
+        "id": 5,
+        "name": "Quimbaya"
+    },
+    {
+        "id": 6,
+        "name": "Tebaida"
+    },
+    {
+        "id": 7,
+        "name": "Barcelona"
+    },
+    {
+        "id": 8,
+        "name": "Cordoba"
+    },
+    {
+        "id": 9,
+        "name": "Filandia"
+    },
+    {
+        "id": 10,
+        "name": "Pijao"
+    },
+    {
+        "id": 11,
+        "name": "Salento"
+    },
+    {
+        "id": 12,
+        "name": "Buenavista"
+    },
+    {
+        "id": 13,
+        "name": "Caicedonia"
+    }
+]
