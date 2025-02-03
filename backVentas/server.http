@@ -1,0 +1,102 @@
+###------------------------------------------------------------------------
+### get all clients.
+GET http://localhost:3000/clients
+
+### post a new client.
+POST http://localhost:3000/clients
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "email": "",
+    "phone": "",
+    "address": ""
+}
+
+### update a client.
+PUT http://localhost:3000/clients/11
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "email": "dajslkda@laks.com",
+    "phone": "123456789",
+    "address": "1234 Main St"
+}
+
+### delete a client.
+DELETE http://localhost:3000/clients/11
+
+###------------------------------------------------------------------------
+### get all products.
+GET http://localhost:3000/products
+
+### post a new product.
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "name": "Carrot",
+    "price": 10000,
+    "stock": 100
+}
+
+### update a product.
+PUT http://localhost:3000/products/11
+Content-Type: application/json
+
+{
+    "name": "Car",
+    "price": 1000,
+    "stock": 10
+}
+
+### delete a product.
+DELETE http://localhost:3000/products/11
+
+###------------------------------------------------------------------------
+### get all sales.
+GET http://localhost:3000/sales
+
+### post a new sale.
+POST http://localhost:3000/sales
+Content-Type: application/json
+
+{
+    "clientId": 4,
+    "products": [
+        {
+            "productId": 3,
+            "quantity": 10
+        },
+        {
+            "productId": 4,
+            "quantity": 5
+        },
+        {
+            "productId": 7,
+            "quantity": 3
+        }
+    ]
+}
+
+### update a sale.
+PUT http://localhost:3000/sales/11
+Content-Type: application/json
+
+{
+    "clientId": 1,
+    "products": [
+        {
+            "productId": 1,
+            "quantity": 10
+        },
+        {
+            "productId": 2,
+            "quantity": 5
+        }
+    ]
+}
+
+### delete a sale.
+DELETE http://localhost:3000/sales/1
