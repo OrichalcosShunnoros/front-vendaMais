@@ -14,7 +14,7 @@ Content-Type: application/json
 }
 
 ### update a client.
-PUT http://localhost:3000/clients/11
+PUT http://localhost:3000/clients/10
 Content-Type: application/json
 
 {
@@ -25,7 +25,7 @@ Content-Type: application/json
 }
 
 ### delete a client.
-DELETE http://localhost:3000/clients/11
+DELETE http://localhost:3000/clients/10
 
 ###------------------------------------------------------------------------
 ### get all products.

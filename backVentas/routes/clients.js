@@ -27,7 +27,7 @@ router.put('/:id', (req, res) => {
   clientsData[clientIndex] = { ...clientsData[clientIndex], ...updatedClient }
   writeFile('clients.json', clientsData)
 
-  res.json(clientsData[clientIndex])
+  res.json(`Client ${clientId} ${clientsData[clientIndex].name} updated`)
 })
 
 router.delete('/:id', (req, res) => {
