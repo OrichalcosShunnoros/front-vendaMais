@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "first_name": "Carlos",
+    "last_name": "Pérez",
+    "dni": "12345678",
+    "zone": "North",
+    "department": "Finance",
+    "city": "New York",
+    "address": "123 Main St",
+    "email": "carlos.perez@example.com",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "first_name": "María",
+    "last_name": "Gómez",
+    "dni": "87654321",
+    "zone": "South",
+    "department": "Marketing",
+    "city": "Los Angeles",
+    "address": "456 Elm St",
+    "email": "maria.gomez@example.com",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "first_name": "Juan",
+    "last_name": "Rodríguez",
+    "dni": "23456789",
+    "zone": "West",
+    "department": "IT",
+    "city": "San Francisco",
+    "address": "789 Oak St",
+    "email": "juan.rodriguez@example.com",
+    "phone": "555-8765"
+  },
+  {
+    "id": 4,
+    "first_name": "Ana",
+    "last_name": "Martínez",
+    "dni": "34567890",
+    "zone": "East",
+    "department": "HR",
+    "city": "Chicago",
+    "address": "321 Pine St",
+    "email": "ana.martinez@example.com",
+    "phone": "555-4321"
+  },
+  {
+    "id": 5,
+    "first_name": "Pedro",
+    "last_name": "Sánchez",
+    "dni": "45678901",
+    "zone": "North",
+    "department": "Operations",
+    "city": "Houston",
+    "address": "654 Birch St",
+    "email": "pedro.sanchez@example.com",
+    "phone": "555-6789"
+  },
+  {
+    "id": 6,
+    "first_name": "Sofía",
+    "last_name": "Ramírez",
+    "dni": "56789012",
+    "zone": "South",
+    "department": "Sales",
+    "city": "Miami",
+    "address": "987 Cedar St",
+    "email": "sofia.ramirez@example.com",
+    "phone": "555-3456"
+  },
+  {
+    "id": 7,
+    "first_name": "Luis",
+    "last_name": "Fernández",
+    "dni": "67890123",
+    "zone": "West",
+    "department": "Logistics",
+    "city": "Seattle",
+    "address": "741 Redwood St",
+    "email": "luis.fernandez@example.com",
+    "phone": "555-9012"
+  },
+  {
+    "id": 8,
+    "first_name": "Gabriela",
+    "last_name": "Torres",
+    "dni": "78901234",
+    "zone": "East",
+    "department": "Support",
+    "city": "Boston",
+    "address": "852 Spruce St",
+    "email": "gabriela.torres@example.com",
+    "phone": "555-7890"
+  },
+  {
+    "id": 9,
+    "first_name": "Ricardo",
+    "last_name": "Morales",
+    "dni": "89012345",
+    "zone": "North",
+    "department": "Security",
+    "city": "Denver",
+    "address": "963 Palm St",
+    "email": "ricardo.morales@example.com",
+    "phone": "555-2345"
+  },
+  {
+    "id": 10,
+    "first_name": "Elena",
+    "last_name": "Díaz",
+    "dni": "90123456",
+    "zone": "South",
+    "department": "Management",
+    "city": "San Diego",
+    "address": "159 Maple St",
+    "email": "elena.diaz@example.com",
+    "phone": "555-6781"
+  }
+]
