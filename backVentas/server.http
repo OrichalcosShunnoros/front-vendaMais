@@ -7,10 +7,15 @@ POST http://localhost:3000/clients
 Content-Type: application/json
 
 {
-    "name": "John Doe",
-    "email": "",
-    "phone": "",
-    "address": ""
+    "first_name": "Carlos",
+    "last_name": "Pérez",
+    "dni": "12345678",
+    "zone": "North",
+    "department": "Finance",
+    "city": "New York",
+    "address": "123 Main St",
+    "email": "carlos.perez@example.com",
+    "phone": "555-1234"
 }
 
 ### update a client.
