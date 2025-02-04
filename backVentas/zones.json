@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "zone1",
+        "cities": [
+            {
+                "id": 1,
+                "name": "Armenia"
+            },
+            {
+                "id": 2,
+                "name": "Calarcá"
+            },
+            {
+                "id": 3,
+                "name": "Granada"
+            },
+            {
+                "id": 4,
+                "name": "Circasia"
+            },
+            {
+                "id": 5,
+                "name": "Centro"
+            },
+            {
+                "id": 6,
+                "name": ""
+            }
+        ]
+
+    },
+    {
+        "id": 2,
+        "name": "zone2",
+        "cities": [
+            {
+                "id": 1,
+                "name": "Armenia"
+            },
+            {
+                "id": 2,
+                "name": "Armenia"
+            }
+        ]
+    }
+]
