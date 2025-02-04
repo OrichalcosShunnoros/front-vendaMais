@@ -1,0 +1,42 @@
+
+.RegistroVenta{
+    /* background-color: blueviolet; */
+    width: 45%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* margin-bottom: 6rem; */
+}
+
+.input{
+    width: 80%;
+    height: 3rem;
+    border-radius: 6px;
+    outline: none;
+    padding: 0 .5rem;
+    border: 1px solid #000;
+}
+
+.label{
+    font-size: 1.4rem;
+    margin: 2rem 0rem 0rem 0rem;
+    display: flex;
+    width: 80%;
+    /* justify-content: flex-end; */
+    
+
+}
+
+
+.enviar{
+    width: 5rem;
+    height: 3rem;
+    position: relative;
+    top: 1rem;
+    background-color: rgb(42, 240, 42);
+    border: none;
+    border-radius:.6rem ;
+    cursor:pointer ;
+}
