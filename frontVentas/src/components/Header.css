@@ -1,0 +1,18 @@
+.Header{
+    width: 100vw ;
+    height: 17vh;
+    /* border: 1px solid #000; */
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+
+}
+
+.circulo{
+    width: 4rem;
+    height: 4rem;
+    border: 1px solid #000;
+    border-radius: 2rem;
+}

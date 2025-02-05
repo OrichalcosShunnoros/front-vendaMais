@@ -2,12 +2,14 @@
 .RegistroVenta{
     /* background-color: blueviolet; */
     width: 45%;
-    height: 80%;
+    height: 75%;
     display: flex;
+    
     justify-content: center;
     align-items: center;
     flex-direction: column;
     /* margin-bottom: 6rem; */
+   
 }
 
 .input{

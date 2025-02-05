@@ -1,6 +1,7 @@
 import './App.css'
-import {RegistroCliente} from './componets/RegistroCliente'
-import {RegistroVentas} from './componets/RegistroVentas'
+import { Header } from './components/Header'
+// import {RegistroCliente} from './components/RegistroCliente'
+// import {RegistroVentas} from './components/RegistroVentas'
 
 
 export const App = () => {
@@ -8,9 +9,10 @@ export const App = () => {
 
   return (
     <div className='App'>
+      <Header />
 
       {/* <RegistroCliente/> */}
-      <RegistroVentas/>
+      {/* <RegistroVentas/> */}
     </div>
   )
 }
