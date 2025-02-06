@@ -3,7 +3,7 @@ const router = express.Router()
 const { readFile, writeFile } = require('../utils/fileUtils')
 
 router.get('/', (_, res) => {
-  const citiesData = readFile('cities.json')
+  const citiesData = readFile('cities/cities.json')
   res.json(citiesData)
 })
 
