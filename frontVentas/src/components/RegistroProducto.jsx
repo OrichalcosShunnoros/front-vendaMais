@@ -1,6 +1,6 @@
-import './RegistroVenta.css'
+import './RegistroProducto.css'
 
-export const RegistroVentas = () => {
+export const RegistroProducto = () => {
   return (
     <div className='RegistroVenta'>
         <label className='label' htmlFor="">Nombre:</label>

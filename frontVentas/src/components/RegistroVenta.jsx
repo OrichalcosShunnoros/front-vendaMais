@@ -1,9 +1,9 @@
-import './RegistroCliente.css'
+import './RegistroVenta.css'
 
 
-export const RegistroCliente = () => {
+export const RegistroVenta = () => {
   return (
-    <div className='RegistroCliente'>
+    <div className='RegistroVenta'>
         <label className='label' htmlFor="">Client:</label>
         <input className = 'input' type="text" />
         <label className='label' htmlFor="">Products:</label>
